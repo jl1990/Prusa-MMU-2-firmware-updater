@@ -1,2 +1,2 @@
 # mmu_updater
-Python script to update MMU2/S from raspberry pi
+Python script to update Prusa MMU2/S from raspberry pi
